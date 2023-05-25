@@ -6,9 +6,13 @@ The Memory Game with Timer is a JavaScript project that challenges players to te
 
 Key Features
 Memory testing gameplay: Players need to remember the positions of the cards and match them correctly.
+
 Timer: The game includes a countdown timer that starts when the player begins the game and adds a sense of urgency to find all matching pairs within a specific time limit.
+
 Card flipping animation: The game provides a smooth and visually appealing animation when flipping cards to reveal their faces.
+
 Matching logic: The game checks for matching pairs and keeps them visible if successful or flips them back over if unsuccessful.
+
 Score tracking: The game keeps track of the player's score based on the number of moves taken and the time taken to complete the game.
 
 
